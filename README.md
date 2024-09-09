@@ -1,2 +1,3 @@
 # Devops
-To work on a Project
+
+This Repo is for Linux
